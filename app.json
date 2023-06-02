@@ -1,7 +1,7 @@
 {
-  "name": "GataBotLite-MD", 
+  "name": "KanakiBot-Lite", 
   "description": "Bot ligero para WhatsApp",
-  "repository": "https://github.com/GataNina-Li/GataBotLite-MD",
+  "repository": "https://github.com/Saldarriaga184/KanakiBot-Lite",
   "logo": "https://i.imgur.com/AwlL9kc.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
