@@ -336,7 +336,7 @@ if (xp > 2000)
 m.reply('Exp limit') // LÍMITE DE EXP
 else               
 if (!isPrems && plugin.money && global.db.data.users[m.sender].money < plugin.money * 1) {
-this.reply(m.chat, `🐈 *NO TIENE GATACOINS*`, m)
+this.reply(m.chat, `👾 *NO TIENE KanakiCOINS*`, m)
 continue // LÍMITE DE EXP    
 }
 m.exp += xp
@@ -380,7 +380,7 @@ if (m.limit)
 m.reply(+m.limit + lenguajeGB.smsCont8())
 }
 if (m.money)
-m.reply(+m.money + ' *GATACOINS USADO(S)* 🐱')
+m.reply(+m.money + ' *KanakiCOINS USADO(S)* 👾')
 break
 }}} catch (e) {
 console.error(e)
