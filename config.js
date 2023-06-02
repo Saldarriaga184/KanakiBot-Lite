@@ -107,11 +107,11 @@ global.vs = '1.0.2'
 global.vsJB = '3.0'
 
 global.gt = '●⃝𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙇𝙞𝙩𝙚'
-global.yt = 'https://youtube.com/@gatadios'
+global.yt = 'https://www.youtube.com/@d.e.s.n_offcial17'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
 global.md = 'https://github.com/Saldarriaga184/KanakiBot-Lite
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //
 global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
 global.nn = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
@@ -120,8 +120,8 @@ global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
 global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
 global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //
 
-//global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+//global.paypal = 'PAYPal'
+global.asistencia = 'Wa.me/593990058725' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
