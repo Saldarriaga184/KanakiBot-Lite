@@ -221,5 +221,5 @@ _________░▒▓██
 _______░▒▓██
 _____░▒▓██\n\e[0m"
     
-echo -e "\033[01;32m\033[01mIniciando GataBotLite!!\nStarting GataBotLite!!\n\033[0m"
+echo -e "\033[01;32m\033[01mIniciando KanakiBot-Lite!!\nStarting KanakiBot-Lite!!\n\033[0m"
 npm start
