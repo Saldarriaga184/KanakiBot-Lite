@@ -11,8 +11,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['593993684821', 'KanakiBot-Lite👾', true], 
-['593990058725, '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],    
+['593968711217', 'KanakiBot-Lite👾', true], 
+['593990058725, '𝙊𝙬𝙣𝙚𝙧', (1) 💻', true],    
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
