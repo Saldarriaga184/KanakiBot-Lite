@@ -21,7 +21,7 @@ global.prems = []
    
   
 /*⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰  
-Agrega el Idioma que quieres que tenga GataBotLite-MD
+Agrega el Idioma que quieres que tenga KanakiBot-Lite
 Add the language you want GataBotLite-MD to have
   es = Español         id = Bahasa Indonesia
   en = English         pt = Português 
@@ -90,7 +90,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙨'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
