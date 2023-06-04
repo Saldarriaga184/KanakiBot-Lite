@@ -88,7 +88,7 @@ return { conversation: "hello, i'm GataBotLite-MD" }},
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['KanakiBot-Lite','Edge','107.0.1418.26'],
+browser: ['GataBot-Lite','Edge','107.0.1418.26'],
 version   
 }       
 
