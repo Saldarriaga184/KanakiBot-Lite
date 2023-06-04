@@ -1,1 +1,1 @@
-//GataBotLite-MD
+//KanakiBot-Lite
